@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 113765806,
+    "name": "PureL Challenge",
+    "author": "DashyGMD",
+    "creators": ["Dashywaros8"],
+    "Showcaser": "DashyGMD",
+    "Showcase": "https://www.youtube.com/watch?v=WQaJffBKIpQ",
+    "percentToQualify": 54,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "N/A",
+            "link": "N/A",
+            "percent": N/A,
+            "hz": N/A
         }
     ]
 }
